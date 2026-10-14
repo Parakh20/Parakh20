@@ -52,7 +52,7 @@ More: [web-dev-mini-projects](https://github.com/Parakh20/web-dev-mini-projects)
 
 ### Tools I use
 
-**ML / AI:** Python, PyTorch, scikit-learn, YOLOv8, ONNX, RAG, LLM agents (Gemini, Groq, Ollama), Whisper
-**Web:** TypeScript, React, Next.js, Node.js, Express, FastAPI, Django, Tailwind
-**Data and infra:** PostgreSQL, Supabase, SQLite, Redis, Docker, GitHub Actions, Vercel
-**Also:** C++, MATLAB / Simulink
+- **ML / AI:** Python, PyTorch, scikit-learn, YOLOv8, ONNX, RAG, LLM agents (Gemini, Groq, Ollama), Whisper
+- **Web:** TypeScript, React, Next.js, Node.js, Express, FastAPI, Django, Tailwind
+- **Data and infra:** PostgreSQL, Supabase, SQLite, Redis, Docker, GitHub Actions, Vercel
+- **Also:** C++, MATLAB / Simulink
