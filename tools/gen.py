@@ -126,11 +126,10 @@ def hero() -> str:
         f'<defs>{radial("hb")}{radial("hc", WARM_CORE)}'
         '<linearGradient id="name" x1="0" y1="0" x2="0" y2="1">'
         f'<stop offset="0" stop-color="{HOT}"/><stop offset="0.55" stop-color="{ORANGE}"/><stop offset="1" stop-color="{MAGENTA}"/></linearGradient>'
-        '<filter id="soft" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="28"/></filter>'
         '<pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#000" opacity="0.18"/></pattern>'
         "</defs>"
         f'<rect width="{W}" height="{H}" fill="{COLD}"/>'
-        f'<g filter="url(#soft)" opacity="0.95">{field}</g>'
+        f'<g opacity="0.95">{field}</g>'
         f'<rect width="{W}" height="{H}" fill="url(#scan)"/>'
         + corners(24, 24, W - 48, H - 48, HOT, 34, 2, 0.55)
         + t(48, 58, "cam_01 / thermal / iit bombay", 16, 500, MUTED)
@@ -190,10 +189,9 @@ def card(title, desc, stack, cat) -> str:
         x += w + 10
     body = (
         f'<defs>{radial("g", HEAT_CORE[HEAT_CORE.index(color):] if color in HEAT_CORE else WARM_CORE)}'
-        '<filter id="b" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="22"/></filter>'
         f'<clipPath id="c"><rect width="{W}" height="{H}" rx="12"/></clipPath></defs>'
         f'<rect width="{W}" height="{H}" rx="12" fill="{PANEL}"/>'
-        f'<ellipse cx="{W - 40}" cy="30" rx="210" ry="150" fill="url(#g)" opacity="0.5" filter="url(#b)" clip-path="url(#c)"/>'
+        f'<ellipse cx="{W - 40}" cy="30" rx="210" ry="150" fill="url(#g)" opacity="0.5" clip-path="url(#c)"/>'
         + corners(14, 14, W - 28, H - 28, color, 20, 2, 0.85)
         + f'<rect x="36" y="38" width="10" height="10" fill="{color}"/>'
         + t(54, 48, label, 15, 600, color)
