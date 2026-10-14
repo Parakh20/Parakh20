@@ -48,17 +48,17 @@ stack = {
 }
 ```
 
-### `$ ./stats`
+### `$ ./languages`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Parakh20&show_icons=true&hide_rank=false&bg_color=00000000&hide_border=true&title_color=7ee787&text_color=c9d1d9&icon_color=79c0ff" height="165" alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parakh20&layout=compact&hide=jupyter%20notebook,html,css&langs_count=6&bg_color=00000000&hide_border=true&title_color=7ee787&text_color=c9d1d9&icon_color=79c0ff" height="165" alt="Top languages">
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parakh20&layout=compact&hide=jupyter%20notebook,html,css,makefile,shell,dockerfile&langs_count=6&card_width=420&bg_color=00000000&hide_border=true&title_color=7ee787&text_color=c9d1d9" alt="Most used languages">
 
 ### `$ contact`
+
+```diff
++ open to freelance and contract work
+```
 
 <p>
   <a href="mailto:sharmaparakh05@gmail.com"><img src="https://img.shields.io/badge/email-sharmaparakh05@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://parakh20.github.io/web-dev-mini-projects/"><img src="https://img.shields.io/badge/web-gallery-79c0ff?style=flat-square&logo=github&logoColor=white" alt="Web gallery"></a>
-  <img src="https://img.shields.io/badge/status-open%20to%20freelance-7ee787?style=flat-square" alt="Open to freelance">
 </p>
