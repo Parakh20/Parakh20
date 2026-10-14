@@ -50,7 +50,10 @@ stack = {
 
 ### `$ ./languages`
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parakh20&layout=compact&hide=jupyter%20notebook,html,css,makefile,shell,dockerfile&langs_count=6&card_width=420&bg_color=00000000&hide_border=true&title_color=7ee787&text_color=c9d1d9" alt="Most used languages">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Parakh20&layout=compact&hide=jupyter%20notebook,html,css,makefile,shell,dockerfile&langs_count=6&card_width=420&bg_color=00000000&hide_border=true&title_color=7ee787&text_color=c9d1d9">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parakh20&layout=compact&hide=jupyter%20notebook,html,css,makefile,shell,dockerfile&langs_count=6&card_width=420&bg_color=00000000&hide_border=true&title_color=1a7f37&text_color=1f2328" alt="Most used languages">
+</picture>
 
 ### `$ contact`
 
