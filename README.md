@@ -1,66 +1,18 @@
-<img src="assets/hero.svg" width="100%" alt="Parakh Sharma, AI/ML engineer and full-stack developer at IIT Bombay, open to freelance and contract work">
-
-<p align="center">
-  <a href="mailto:sharmaparakh05@gmail.com"><b>sharmaparakh05@gmail.com</b></a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://parakh20.github.io/web-dev-mini-projects/">web gallery</a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://github.com/Parakh20?tab=repositories">all repositories</a>
-</p>
-
-I build LLM agents, RAG pipelines and computer vision systems, then ship them as web apps and APIs people can use. Mail me if you need one built.
-
-### Featured work
-
-<p>
-  <a href="https://github.com/Parakh20/autonomous-web-agent"><img src="assets/card-autonomous-web-agent.svg" width="49%" alt="autonomous-web-agent"></a>
-  <a href="https://github.com/Parakh20/rag-technical-doc-assistant"><img src="assets/card-rag-technical-doc-assistant.svg" width="49%" alt="rag-technical-doc-assistant"></a>
-  <a href="https://github.com/Parakh20/AxalonSystems"><img src="assets/card-AxalonSystems.svg" width="49%" alt="AxalonSystems"></a>
-  <a href="https://github.com/Parakh20/realtime-browser-object-detection"><img src="assets/card-realtime-browser-object-detection.svg" width="49%" alt="realtime-browser-object-detection"></a>
-  <a href="https://github.com/Parakh20/darexsaas"><img src="assets/card-darexsaas.svg" width="49%" alt="darexsaas"></a>
-  <a href="https://github.com/Parakh20/cpp-matching-engine"><img src="assets/card-cpp-matching-engine.svg" width="49%" alt="cpp-matching-engine"></a>
-</p>
-
-<details>
-<summary><b>More AI and computer vision</b></summary>
-
-- [multi-agent-orchestration](https://github.com/Parakh20/multi-agent-orchestration): research, writing and review agents under an orchestrator, benchmarked against one agent
-- [internblog](https://github.com/Parakh20/internblog): every new IIT Bombay internship blog post becomes a calendar event and a Telegram alert
-- [edge-model-compression-study](https://github.com/Parakh20/edge-model-compression-study): FP16/INT8 quantization and pruning benchmark for YOLOv8s
-- [AI-Video-Editor](https://github.com/Parakh20/AI-Video-Editor): raw POV footage in, edited video out, with highlights, beat-synced cuts and subtitles
-- [recommendation-system](https://github.com/Parakh20/recommendation-system): hybrid recommender with adaptive weighting and MMR re-ranking
-- [customer-churn-prediction](https://github.com/Parakh20/customer-churn-prediction) · [time-series-forecasting](https://github.com/Parakh20/time-series-forecasting)
-</details>
-
-<details>
-<summary><b>More full-stack</b></summary>
-
-- [careergps](https://github.com/Parakh20/careergps) ([live](https://career-gps-ai-roadmap.vercel.app/)): career decision-support MVP for students
-- [comsync-task-api](https://github.com/Parakh20/comsync-task-api): task API with Docker, CI/CD, health checks, monitoring and rollback
-- [AthleteSync](https://github.com/Parakh20/AthleteSync): training log and workout planning for athletes and groups
-- [Task_Manager](https://github.com/Parakh20/Task_Manager) ([live](https://task-manager-ugac.vercel.app/)): Kanban board with drag-and-drop, calendar and dark mode
-- [web-dev-mini-projects](https://github.com/Parakh20/web-dev-mini-projects) ([gallery](https://parakh20.github.io/web-dev-mini-projects/)) · [product-strategy-case-studies](https://github.com/Parakh20/product-strategy-case-studies)
-</details>
-
-<details>
-<summary><b>More quant and systems</b></summary>
-
-- [options-pricing-engine](https://github.com/Parakh20/options-pricing-engine): Black-Scholes, Monte Carlo and Longstaff-Schwartz pricing
-- [limit-order-book-simulator](https://github.com/Parakh20/limit-order-book-simulator): order book plus backtesting for market-making strategies
-- [ie622-rl-portfolio-seminar](https://github.com/Parakh20/ie622-rl-portfolio-seminar): recurrent PPO trading agent vs Markowitz and risk-parity baselines
-- [bitcoin-blockchain-simulator](https://github.com/Parakh20/bitcoin-blockchain-simulator): Bitcoin protocol from scratch
-- [summer-of-quant](https://github.com/Parakh20/summer-of-quant): BTC/USD volume-spike breakout strategy and backtest
-</details>
-
-### Toolbox
-
-<img src="assets/tools.svg" width="100%" alt="Tools: Python, PyTorch, scikit-learn, YOLOv8, ONNX, Whisper, RAG, LLM agents, TypeScript, React, Next.js, Node.js, Express, FastAPI, Django, Tailwind, PostgreSQL, Supabase, SQLite, Redis, Docker, GitHub Actions, Vercel, C++, MATLAB, Simulink">
-
-### Heat map
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Parakh20/Parakh20/output/snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/Parakh20/Parakh20/output/snake-light.svg" width="100%" alt="Contribution graph as a thermal heat map, eaten by a snake">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/name-dark.svg">
+  <img src="assets/name-light.svg" width="420" alt="Parakh Sharma">
 </picture>
 
-<sub>Visuals are generated by <code>tools/gen.py</code>. The heat map refreshes daily.</sub>
+AI/ML engineer and full-stack developer at IIT Bombay.<br>
+I build LLM agents, retrieval systems and computer vision models, and ship them as products people use.
+
+Open to freelance and contract work. Write to [sharmaparakh05@gmail.com](mailto:sharmaparakh05@gmail.com).
+
+&nbsp;
+
+**Agents and retrieval** &nbsp; [Browser agent](https://github.com/Parakh20/autonomous-web-agent), [RAG assistant](https://github.com/Parakh20/rag-technical-doc-assistant), [Multi-agent system](https://github.com/Parakh20/multi-agent-orchestration)<br>
+**Computer vision** &nbsp; [Drone inspection](https://github.com/Parakh20/AxalonSystems), [In-browser detection](https://github.com/Parakh20/realtime-browser-object-detection), [Edge compression](https://github.com/Parakh20/edge-model-compression-study)<br>
+**Products** &nbsp; [Darex CRM](https://github.com/Parakh20/darexsaas), [Career GPS](https://career-gps-ai-roadmap.vercel.app/), [Task API](https://github.com/Parakh20/comsync-task-api)<br>
+**Quant** &nbsp; [C++ matching engine](https://github.com/Parakh20/cpp-matching-engine), [Options pricing](https://github.com/Parakh20/options-pricing-engine), [Order book simulator](https://github.com/Parakh20/limit-order-book-simulator)
+
+<sub>Python, PyTorch, TypeScript, Next.js, FastAPI, PostgreSQL, Docker</sub>
