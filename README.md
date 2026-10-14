@@ -1,18 +1,64 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/name-dark.svg">
-  <img src="assets/name-light.svg" width="420" alt="Parakh Sharma">
-</picture>
+```text
+██████╗   █████╗  ██████╗   █████╗  ██╗  ██╗ ██╗  ██╗
+██╔══██╗ ██╔══██╗ ██╔══██╗ ██╔══██╗ ██║ ██╔╝ ██║  ██║
+██████╔╝ ███████║ ██████╔╝ ███████║ █████╔╝  ███████║
+██╔═══╝  ██╔══██║ ██╔══██╗ ██╔══██║ ██╔═██╗  ██╔══██║
+██║      ██║  ██║ ██║  ██║ ██║  ██║ ██║  ██╗ ██║  ██║
+╚═╝      ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝
 
-AI/ML engineer and full-stack developer at IIT Bombay.<br>
-I build LLM agents, retrieval systems and computer vision models, and ship them as products people use.
+   ai/ml engineer · full-stack developer · iit bombay
+```
 
-Open to freelance and contract work. Write to [sharmaparakh05@gmail.com](mailto:sharmaparakh05@gmail.com).
+### `$ whoami`
 
-&nbsp;
+```yaml
+name:      Parakh Sharma
+based_in:  Mumbai, India (IIT Bombay)
+builds:    LLM agents, RAG pipelines, computer vision, full-stack products
+open_to:   freelance and contract work
+email:     sharmaparakh05@gmail.com
+```
 
-**Agents and retrieval** &nbsp; [Browser agent](https://github.com/Parakh20/autonomous-web-agent), [RAG assistant](https://github.com/Parakh20/rag-technical-doc-assistant), [Multi-agent system](https://github.com/Parakh20/multi-agent-orchestration)<br>
-**Computer vision** &nbsp; [Drone inspection](https://github.com/Parakh20/AxalonSystems), [In-browser detection](https://github.com/Parakh20/realtime-browser-object-detection), [Edge compression](https://github.com/Parakh20/edge-model-compression-study)<br>
-**Products** &nbsp; [Darex CRM](https://github.com/Parakh20/darexsaas), [Career GPS](https://career-gps-ai-roadmap.vercel.app/), [Task API](https://github.com/Parakh20/comsync-task-api)<br>
-**Quant** &nbsp; [C++ matching engine](https://github.com/Parakh20/cpp-matching-engine), [Options pricing](https://github.com/Parakh20/options-pricing-engine), [Order book simulator](https://github.com/Parakh20/limit-order-book-simulator)
+### `$ ls ~/projects`
 
-<sub>Python, PyTorch, TypeScript, Next.js, FastAPI, PostgreSQL, Docker</sub>
+```yaml
+agents:
+  autonomous-web-agent:        browser agent that plans and acts through a ReAct loop
+  rag-technical-doc-assistant: Q&A over technical PDFs with reranked, cited answers
+vision:
+  AxalonSystems:               thermal-drone solar inspection with YOLOv8
+  realtime-object-detection:   YOLOv8n running fully in the browser via ONNX
+products:
+  darexsaas:                   multi-tenant SaaS CRM with an AI agent
+  careergps:                   career decision-support MVP for students
+quant:
+  cpp-matching-engine:         C++17 limit order book matching engine
+  options-pricing-engine:      Black-Scholes, Monte Carlo, Longstaff-Schwartz
+```
+
+### `$ cat stack.py`
+
+```python
+stack = {
+    "ml":   ["PyTorch", "scikit-learn", "YOLOv8", "ONNX", "Whisper"],
+    "llm":  ["RAG", "agents", "Gemini", "Groq", "Ollama"],
+    "web":  ["TypeScript", "React", "Next.js", "FastAPI", "Node.js"],
+    "data": ["PostgreSQL", "Supabase", "Redis", "Docker", "GitHub Actions"],
+    "also": ["C++", "MATLAB"],
+}
+```
+
+### `$ ./stats`
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Parakh20&show_icons=true&hide_rank=false&bg_color=00000000&hide_border=true&title_color=7ee787&text_color=c9d1d9&icon_color=79c0ff" height="165" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parakh20&layout=compact&hide=jupyter%20notebook,html,css&langs_count=6&bg_color=00000000&hide_border=true&title_color=7ee787&text_color=c9d1d9&icon_color=79c0ff" height="165" alt="Top languages">
+</p>
+
+### `$ contact`
+
+<p>
+  <a href="mailto:sharmaparakh05@gmail.com"><img src="https://img.shields.io/badge/email-sharmaparakh05@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://parakh20.github.io/web-dev-mini-projects/"><img src="https://img.shields.io/badge/web-gallery-79c0ff?style=flat-square&logo=github&logoColor=white" alt="Web gallery"></a>
+  <img src="https://img.shields.io/badge/status-open%20to%20freelance-7ee787?style=flat-square" alt="Open to freelance">
+</p>
