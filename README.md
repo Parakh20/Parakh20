@@ -1,64 +1,19 @@
-```text
-██████╗   █████╗  ██████╗   █████╗  ██╗  ██╗ ██╗  ██╗
-██╔══██╗ ██╔══██╗ ██╔══██╗ ██╔══██╗ ██║ ██╔╝ ██║  ██║
-██████╔╝ ███████║ ██████╔╝ ███████║ █████╔╝  ███████║
-██╔═══╝  ██╔══██║ ██╔══██╗ ██╔══██║ ██╔═██╗  ██╔══██║
-██║      ██║  ██║ ██║  ██║ ██║  ██║ ██║  ██╗ ██║  ██║
-╚═╝      ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img src="assets/header-light.svg" width="100%" alt="Parakh Sharma, AI/ML engineer and full-stack developer, IIT Bombay">
+</picture>
 
-   ai/ml engineer · full-stack developer · iit bombay
-```
+<br>
 
-### `$ whoami`
+I build LLM agents, retrieval systems and computer vision models, then ship them as products people use. Open to freelance and contract work: [sharmaparakh05@gmail.com](mailto:sharmaparakh05@gmail.com)
 
-```yaml
-name:      Parakh Sharma
-based_in:  Mumbai, India (IIT Bombay)
-builds:    LLM agents, RAG pipelines, computer vision, full-stack products
-open_to:   freelance and contract work
-email:     sharmaparakh05@gmail.com
-```
+<br>
 
-### `$ ls ~/projects`
+<img src="assets/mark-agents.svg" width="12" height="12" alt=""> &nbsp;**Agents and retrieval** &nbsp; [Browser agent](https://github.com/Parakh20/autonomous-web-agent), [RAG assistant](https://github.com/Parakh20/rag-technical-doc-assistant), [Multi-agent system](https://github.com/Parakh20/multi-agent-orchestration)<br>
+<img src="assets/mark-vision.svg" width="12" height="12" alt=""> &nbsp;**Computer vision** &nbsp; [Drone inspection](https://github.com/Parakh20/AxalonSystems), [In-browser detection](https://github.com/Parakh20/realtime-browser-object-detection), [Edge compression](https://github.com/Parakh20/edge-model-compression-study)<br>
+<img src="assets/mark-products.svg" width="12" height="12" alt=""> &nbsp;**Products** &nbsp; [Darex CRM](https://github.com/Parakh20/darexsaas), [Career GPS](https://career-gps-ai-roadmap.vercel.app/), [Task API](https://github.com/Parakh20/comsync-task-api)<br>
+<img src="assets/mark-quant.svg" width="12" height="12" alt=""> &nbsp;**Quant** &nbsp; [C++ matching engine](https://github.com/Parakh20/cpp-matching-engine), [Options pricing](https://github.com/Parakh20/options-pricing-engine), [Order book simulator](https://github.com/Parakh20/limit-order-book-simulator)
 
-```yaml
-agents:
-  autonomous-web-agent:        browser agent that plans and acts through a ReAct loop
-  rag-technical-doc-assistant: Q&A over technical PDFs with reranked, cited answers
-vision:
-  AxalonSystems:               thermal-drone solar inspection with YOLOv8
-  realtime-object-detection:   YOLOv8n running fully in the browser via ONNX
-products:
-  darexsaas:                   multi-tenant SaaS CRM with an AI agent
-  careergps:                   career decision-support MVP for students
-quant:
-  cpp-matching-engine:         C++17 limit order book matching engine
-  options-pricing-engine:      Black-Scholes, Monte Carlo, Longstaff-Schwartz
-```
+<br>
 
-### `$ cat stack.py`
-
-```python
-stack = {
-    "ml":   ["PyTorch", "scikit-learn", "YOLOv8", "ONNX", "Whisper"],
-    "llm":  ["RAG", "agents", "Gemini", "Groq", "Ollama"],
-    "web":  ["TypeScript", "React", "Next.js", "FastAPI", "Node.js"],
-    "data": ["PostgreSQL", "Supabase", "Redis", "Docker", "GitHub Actions"],
-    "also": ["C++", "MATLAB"],
-}
-```
-
-### `$ ./languages`
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parakh20&layout=compact&hide=jupyter%20notebook,html,css,makefile,shell,dockerfile,tex&langs_count=6&card_width=420&bg_color=00000000&hide_border=true&title_color=2da44e&text_color=8b949e" alt="Most used languages">
-
-### `$ contact`
-
-```diff
-+ open to freelance and contract work
-```
-
-<p>
-  <a href="mailto:sharmaparakh05@gmail.com"><img src="https://img.shields.io/badge/email-sharmaparakh05@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://parakh20.github.io/web-dev-mini-projects/"><img src="https://img.shields.io/badge/web-gallery-79c0ff?style=flat-square&logo=github&logoColor=white" alt="Web gallery"></a>
-</p>
+<sub>Python, PyTorch, TypeScript, Next.js, FastAPI, PostgreSQL, Docker</sub>
